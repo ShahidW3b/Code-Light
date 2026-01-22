@@ -16,14 +16,3 @@
 ### Demo Screeshots
 
 ![Code Light Demo](./assets/images/demo.png "Demo")
-
-
-### Run Locally
-
-To run Code Light locally, follow these steps:
-
-```bash
-git clone https://github.com/ShahidW3b/code-light.git
-cd code-light
-```
-Then open index.html in your browser.
