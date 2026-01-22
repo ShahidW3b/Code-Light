@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Code Light Demo](./assets/images/logo1.png "Demo")
+![Code Light Demo](./assets/images/demo.png "Demo")
 
 
 ### Run Locally
