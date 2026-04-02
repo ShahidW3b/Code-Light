@@ -4,8 +4,6 @@
 
 <a href="https://code-light.vercel.app/"><strong>➥ Live Demo</strong></a>
 
-<br><br>
-
 <img src="./assets/images/preview.png" alt="Preview" width="800"/>
 
 Code Light is a lightweight, browser-based application developed using **HTML, CSS, and JavaScript**, designed to provide a clean and efficient environment for **syntax highlighting and code visualization**.
