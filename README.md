@@ -1,7 +1,7 @@
 # Code Light – Web-Based Code Highlighting Platform
 
 ## 📸 Preview
-![Code Light Preview](./assets/preview.png)
+![Code Light Preview](./assets/images/preview.png)
 
 Code Light is a lightweight, browser-based application developed using **HTML, CSS, and JavaScript**, designed to provide a clean and efficient environment for **syntax highlighting and code visualization**.
 
